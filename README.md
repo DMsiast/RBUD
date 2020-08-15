@@ -299,7 +299,7 @@ below for detailed tutorials:
 
 ### **5.1 demo_data**
 
-The demo_data is stored in example folder, including demo.fasta, demo.fastq, demo.sam, demo.m8.
+The demo_data, including demo.fasta, demo.fastq, demo.sam, demo.m8, is stored to compare different methods.
 
 ### **5.2 HUMAn2**
 
