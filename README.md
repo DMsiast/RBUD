@@ -17,7 +17,7 @@ community profiling developed by Zhikai Xing. Most tools support separate packag
 - SOAPaligner/soap2
 - BLAST/Diamond
 
-**Note:** MDGM database is the basis of RBUD method. In order to study bacteria, viruses and fungus separately, we provide codes to establish an independent database, which can save time and improve accuracy. Before using RBUD approach, you should build your development envrionment in Linux. In addition, SOAPaligner/soap2 should be installed. 
+**Note:** MDGM database is the basis of RBUD method. In order to study bacteria, viruses and fungus separately, we provide codes to establish an independent database, which can save time and improve accuracy. Of course, The code is also used to establish a merge database, including bacteria, viruses and fungus. Before using RBUD approach, you should build your development envrionment in Linux. In addition, SOAPaligner/soap2 should be installed. 
 
 ## **2. MDGM database** 
 
