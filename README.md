@@ -14,8 +14,9 @@ Please click the following link to check the RBUD Program execution code, https:
 Please contact the following authors to inquire the password of this link,
 Dr Shuangli Mi, email address: mishl@big.ac.cn;
 Dr Zhikai Xing, email address: xzk1990314@163.com;
-Dr Chongye Guo, email address: guocy@big.ac.cn.
+Dr Chongye Guo, email address: guocy@big.ac.cn. 
 
+Please click the following link to interview the paper "RBUD: A New Functional Potential Analysis Approach for Whole Microbial Genome Shotgun Sequencing", https://www.mdpi.com/2076-2607/8/10/1563.
 
 ------------------------------------------------------------------------
 ## **1. Requirements**
