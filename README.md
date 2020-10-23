@@ -10,6 +10,12 @@ Welcome to the RBUD 1.0 tutorial, which provides
 software, documentation, and tutorial for method for microbial
 community profiling developed by Zhikai Xing. Most tools support separate packages (typically `Python`,`Perl` or `R`). 
 
+Please click the following link to check the RBUD Program execution code, https://pan.baidu.com/s/1fRhDMpaWUhTnhSkARfiAMw
+Please contact the following authors to inquire the password of this link,
+Dr Shuangli Mi, email address: mishl@big.ac.cn
+Dr Zhikai Xing, email address: 
+Dr Chongye Guo, Email address: guocy@big.ac.cn
+
 ------------------------------------------------------------------------
 ## **1. Requirements**
 
