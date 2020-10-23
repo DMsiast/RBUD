@@ -29,7 +29,7 @@ Dr Chongye Guo, email address: guocy@big.ac.cn.
 
 ### **2.1 MDGM database introduction**
 
-MDGM database includes Species dataset and Functional dataset. The functional dataset contains gene annotation information from different databases. The folder, named Annotation Database, includes information from the Antibiotic Resistance Gene Database (ARDB), The Comprehensive Antibiotic Resistance Database(CARD), Carbohydrate-Active enZymes Database (CAZy)，eggNOG, Kyoto Encyclopedia of Genes and Genomes (KEGG), Universal Protein (UniProt), Metabolic Pathways From all Domains of Life (MetaCyc). In additon, we provide a file called linkdb_genes,  users can link it with gene ID, GI ID and protein ID to find comments.The method and running code of the database are as follows. The downloading link is: https://pan.baidu.com/s/17A5IYbSMAi4bdX6HSX3V4A 。
+MDGM database includes Species dataset and Functional dataset. The functional dataset contains gene annotation information from different databases. The folder, named Annotation Database, includes information from the Antibiotic Resistance Gene Database (ARDB), The Comprehensive Antibiotic Resistance Database(CARD), Carbohydrate-Active enZymes Database (CAZy)，eggNOG, Kyoto Encyclopedia of Genes and Genomes (KEGG), Universal Protein (UniProt), Metabolic Pathways From all Domains of Life (MetaCyc). In additon, we provide a file called linkdb_genes,  users can link it with gene ID, GI ID and protein ID to find comments.The method and running code of the database are as follows. The downloading link is: https://pan.baidu.com/s/17A5IYbSMAi4bdX6HSX3V4A .
 
 ### **2.2 The code of MDGM database construction**
 
